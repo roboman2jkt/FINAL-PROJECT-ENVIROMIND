@@ -18,3 +18,14 @@ Anggota kelompok
 - Sistem Door Lock Face Recognition
   [Lihat Program](https://github.com/roboman2jkt/FINAL-PROJECT-ENVIROMIND/tree/main/source%20code/CameraFaceRecognitionDoorLock)
 
+# Dataset Gambar
+Disini kami menggunakan Google Drive Sebagai Dataset gambar wajah yang digunakan pada sistem Face Recognition
+[Link Google Drive](https://drive.google.com/drive/folders/1_Ymnt_JssiKV3YrAagx8cheBHRjdm2yl)
+
+# Database
+Database yang kami gunakan adalah MongoDB yang dihubungkan melalui bahasa pemrograman Python
+
+# Web App
+Kami menggunakan
+1. Arduino IoT Remote / Arduino IoT Cloud (IoT BOX)
+2. Streamlit (sistem presensi Face Recognition)
