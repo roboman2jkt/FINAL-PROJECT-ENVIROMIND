@@ -5,9 +5,7 @@ from fpdf import FPDF
 from datetime import datetime
 
 # Koneksi ke MongoDB
-@st.experimental_singleton(suppress_st_warning=True)
-def init_connection():
-    return MongoClient("mongodb+srv://st.secrets.db_username:st.secrets.db_pswd@st.secrets.cluster_name.n4ycr4f.mongodb.net/?retryWrites=true&w=majority")
+client = pymongo.MongoClient("mongodb+srv://robotikman2jkt:DdlJaVXGJO4Lo91o@cluster0.knymo2f.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 db = client["data_presensi"]
 collection_kehadiran = db["data_siswa_harian"]
 collection_siswa = db["data_siswa"]
