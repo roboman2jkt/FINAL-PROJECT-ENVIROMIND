@@ -1,14 +1,16 @@
 # FINAL-PROJECT-ENVIROMIND
-Pada Final Project ini kami membuat 3 alat :
-1. IoT Box
-2. Sistem presensi Face Recognition
-3. Sistem keamanan Door lock Face recognition
-
-# Anggota kelompok
+Anggota kelompok
 1. Ahmad Hamra (ketua)
 2. Muhammad Irshad Al Faqih
 3. Muhammad Raihan Fadhilah
 4. Achmad Dzaki Irdinandra
 
+# Produk
+1. IoT Box
+2. Sistem presensi Face Recognition
+3. Sistem keamanan Door lock Face recognition
+
 # Source Code
+- IoT BOX
+  [IoT BOX](http_post/http_post.ino)
 
