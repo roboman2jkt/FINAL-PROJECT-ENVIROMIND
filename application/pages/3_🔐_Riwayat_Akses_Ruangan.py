@@ -3,6 +3,7 @@ import pymongo
 import pandas as pd
 from fpdf import FPDF
 from datetime import datetime
+from openpyxl.workbook import Workbook
 import io
 
 # Koneksi ke MongoDB
