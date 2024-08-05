@@ -1,6 +1,6 @@
 # FINAL-PROJECT-ENVIROMIND
 Anggota kelompok
-1. Ahmad Hamra (ketua)
+1. Ahmad Hamra (Ketua Tim)
 2. Muhammad Irshad Al Faqih
 3. Muhammad Raihan Fadhilah
 4. Achmad Dzaki Irdinandra
@@ -28,4 +28,4 @@ Database yang kami gunakan adalah MongoDB yang dihubungkan melalui bahasa pemrog
 # Web App
 Kami menggunakan
 1. Arduino IoT Remote / Arduino IoT Cloud (IoT BOX)
-2. Streamlit (sistem presensi Face Recognition)
+2. Streamlit (sistem presensi Face Recognition) [Link Web Streamlit] (https://final-project-team-enviromind-sic.streamlit.app/)
