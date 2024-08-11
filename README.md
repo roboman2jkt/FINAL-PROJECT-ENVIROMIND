@@ -28,4 +28,4 @@ Database yang kami gunakan adalah MongoDB yang dihubungkan melalui bahasa pemrog
 # Web App
 Kami menggunakan
 1. Arduino IoT Remote / Arduino IoT Cloud (IoT BOX)
-2. Streamlit (sistem presensi Face Recognition) [Link Web Streamlit](https://final-project-team-enviromind-sic.streamlit.app/)
+2. Streamlit (Log Data Sis. Presensi Siswa & Sis. Keamanan Ruangan) [Link Web Streamlit](https://final-project-team-enviromind-sic.streamlit.app/)
